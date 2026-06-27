@@ -218,7 +218,7 @@ h1, h2, h3, h4 { line-height: 1.15; margin: 0; font-weight: 700; letter-spacing:
   text-align: justify;
   font-size: 1.12rem;
   color: var(--grey-300);
-  max-width: 58ch;
+  max-width: 100%;
   margin-bottom: 36px;
 }
 .hero__cta { display: flex; flex-wrap: wrap; gap: 14px; }
